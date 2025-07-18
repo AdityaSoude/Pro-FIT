@@ -21,4 +21,8 @@
 - **Java**: Core programming language used for implementing app logic and functionality.
 - **XML**: For designing UI components.
 - **RESTful APIs**: Integrated for real-time updates and dynamic content.
-"# Pro-FIT" 
+"# Pro-FIT"
+
+## NOTE
+
+- **Google Services JSON file is required to run the project. 
